@@ -7,10 +7,10 @@
 ## Exmaple
 
 グリッチレベルは4から8くらいがよさそうだった。
-* 
-* 元の画像 ![元の画像](https://www.dropbox.com/s/5glyun2a32qvgfd/butterfly-0.png?dl=0)
-* グリッチレベル5 ![レベル5](https://www.dropbox.com/s/luiobe9fye5xzme/butterfly-5.png?dl=0)
-* グリッチレベル8 ![レベル8](https://www.dropbox.com/s/pv65whsd7ezkre7/butterfly-8.png?dl=0)
+ 
+* 元の画像 ![元の画像](https://dl.dropboxusercontent.com/s/5glyun2a32qvgfd/butterfly-0.png?dl=0)
+* グリッチレベル5 ![レベル5](https://dl.dropboxusercontent.com/s/luiobe9fye5xzme/butterfly-5.png?dl=0)
+* グリッチレベル8 ![レベル8](https://dl.dropboxusercontent.com/s/pv65whsd7ezkre7/butterfly-8.png?dl=0)
 
 ## Run
 
